@@ -41,7 +41,6 @@ export function SiteFooter() {
             className="other-demo-card other-demo-business other-demo-card--current"
             aria-current="page"
           >
-            <span className="you-are-here-pill">You are here</span>
             <div className="other-demo-meta">
               <span className="other-demo-tier">Business</span>
               <span className="other-demo-price">From ₱18,000</span>
